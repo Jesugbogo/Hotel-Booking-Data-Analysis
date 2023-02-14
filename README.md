@@ -43,4 +43,4 @@ The following dashboard answers the questions presented by the stakeholders.
 
 ## Limitations:
 There are no limitations for now. However, I hope to analyse the data more effectively.
-![SQL Screenshot1](https://user-images.githubusercontent.com/116668601/218740091-b72fab5c-f5a2-4043-b685-0b3d3febf75e.png)
+
